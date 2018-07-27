@@ -1,0 +1,9 @@
+﻿  NB_Class_main.cpp
+e:\ai\lab2\nbclass\nbclass\nb_class_main.cpp(21): warning C4305: “参数”: 从“double”到“float”截断
+  NB.cpp
+  DATA.cpp
+e:\ai\lab2\nbclass\nbclass\data.cpp(178): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\ai\lab2\nbclass\nbclass\data.cpp(194): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  NBClass.vcxproj -> E:\AI\LAB2\NBClass\x64\Debug\NBClass.exe
+  NBClass.vcxproj -> E:\AI\LAB2\NBClass\x64\Debug\NBClass.pdb (Partial PDB)
